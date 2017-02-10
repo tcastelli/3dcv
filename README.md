@@ -1,4 +1,4 @@
-# personal
+# 3dcv
 
 > Nuxt.js project
 
